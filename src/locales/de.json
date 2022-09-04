@@ -1,0 +1,70 @@
+{
+  "appname": "Rauschdo Webpage",
+  "placeholder_small": "Lorem ipsum dolor!",
+  "placeholder_big": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.<br>Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+  "label_language_selector": "Sprachauswahl",
+  "navigating_item_title_home": "Home",
+  "navigating_item_title_feature": "Fähigkeiten",
+  "navigating_item_title_about": "Über",
+  "navigating_item_title_download": "Download",
+  "navigating_item_title_projects": "Projekte",
+  "navigating_item_title_contact": "Kontakt",
+  "section": {
+    "home": {
+      "title": "Hallo, mein Name ist",
+      "title_2": "Dominik Rausch.",
+      "subtitle": "Ich entwickele für Android und Web.",
+      "button_text": "Mehr erfahren"
+    },
+    "features": {
+      "feature_one_title": "Design Thinking",
+      "feature_one_text": "Streben danach die bestmögliche Erfahrung für Nutzer zu bauen",
+      "feature_two_title": "Teamfähigkeit",
+      "feature_two_text": "Lorem Ipsum",
+      "feature_three_title": "Clean code",
+      "feature_three_text": "Lorem ipsum dolor sit amet consectetur"
+    },
+    "demo": {
+      "title": "Demo herunterladen",
+      "subtitle": "Code dieser Website und weiteres auf meiner GitHub Seite."
+    },
+    "project": {
+      "title": "Projekte & Ressourcen",
+      "project_#1": {
+        "title": "Android",
+        "bp_one": "Lorem",
+        "bp_two": "Ipsum",
+        "bp_three": "Dolar",
+        "closing": "Sample",
+        "button_text": "Test"
+      },
+      "project_#2": {
+        "title": "Vue.js",
+        "bp_one": "Lorem",
+        "bp_two": "Ipsum",
+        "bp_three": "Dolar",
+        "closing": "Sample",
+        "button_text": "Test"
+      },
+      "project_#3": {
+        "title": "Unity",
+        "bp_one": "Lorem",
+        "bp_two": "Ipsum",
+        "bp_three": "Dolar",
+        "closing": "Sample",
+        "button_text": "Test"
+      }
+    },
+    "contact": {
+      "title": "Kontaktieren Sie mich",
+      "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste explicabo commodi quisquam asperiores dolore ad enim provident veniam perferendis voluptate, perspiciatis.<br>Lorem ipsum dolor sit amet consectetur adipisicing.",
+      "contact_via": "Erreichen können Sie mich zudem unter folgenden Möglichkeiten",
+      "phone_number": "Telefon: +49 xxxxx-xxxx",
+      "email_address": "Email: <a href=\"mailto:email@example.com\">email@example.com</a>",
+      "form_name": "Name",
+      "form_email": "E-mail",
+      "form_message": "Ihre Nachricht",
+      "form_button": "Senden"
+    }
+  }
+}
